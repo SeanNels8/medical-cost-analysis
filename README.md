@@ -32,9 +32,9 @@ The analysis utilizes the `insurance.csv` dataset, which contains 1,338 historic
 To clone and run this project locally, follow these simple steps:
 
 ### 1. Clone the Repository
-Open Git Bash (or your terminal) and run the following command to download the project
-folder to your computer:
-```bash git clone [https://github.com/YOUR-USERNAME/medical-cost-analysis.git (https://github.com/YOUR-USERNAME/medical-cost-analysis.git)
+Open Git Bash (or your terminal) and run the following command to download the project folder to your computer:
+```bash
+git clone [https://github.com/YOUR-USERNAME/medical-cost-analysis.git](https://github.com/YOUR-USERNAME/medical-cost-analysis.git)
 
 
 ## Repository Structure
