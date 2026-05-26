@@ -17,11 +17,6 @@ The analysis utilizes the `insurance.csv` dataset, which contains 1,338 historic
 * **Dependent Volatility:** While overall medical costs scale with major life changes, having a higher number of children (4 or 5) does not linearly increase extreme billing spikes. Instead, maximum variance decreases due to a smaller, more uniform sample size at higher dependent counts.
 * **Cost Skewness:** Annual charges are heavily right-skewed; the vast majority of insured individuals incur routine annual expenses below $15,000, while a high-risk group forms a volatile tail extending out past $40,000 to $60,000.
 
-## Repository Structure
-```text
-├── README.md               # Executive project overview and summary of findings
-├── medical_case_study.ipynb # Interactive Jupyter Notebook containing EDA and plots
-└── insurance.csv           # Clean, raw tabular insurance dataset
 
 ## Technologies & Environment
 
@@ -40,3 +35,11 @@ To clone and run this project locally, follow these simple steps:
 Open Git Bash (or your terminal) and run the following command to download the project folder to your computer:
 ```bash
 git clone [https://github.com/YOUR-USERNAME/medical-cost-analysis.git](https://github.com/YOUR-USERNAME/medical-cost-analysis.git)
+
+
+## Repository Structure
+```text
+├── README.md               # Executive project overview and summary of findings
+├── medical_case_study.ipynb # Interactive Jupyter Notebook containing EDA and plots
+└── insurance.csv           # Clean, raw tabular insurance dataset
+
