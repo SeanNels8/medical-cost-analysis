@@ -1,7 +1,7 @@
 # Medical Cost & Health Insurance Charges Analysis
 
 ## Project Overview
-This project performs an Exploratory Data Analysis (EDA) on a healthcare dataset containing demographic and health metrics to determine the primary drivers of medical insurance charges. The analysis investigates relationships between customer attributes—such as age, regional location, and family size—and their final annual insurance bills.
+This project performs an Exploratory Data Analysis (EDA) on a healthcare dataset containing demographic and health metrics to determine the primary drivers of medical insurance charges. The analysis investigates relationships between customer attributes such as age, regional location, and family size and their final annual insurance bills.
 
 The codebase is built entirely in Python using Jupyter Notebooks, leveraging data manipulation and statistical visualization libraries to extract actionable business intelligence.
 
